@@ -9,11 +9,8 @@
     <h2 align="center">`PHP Mailer`</h2> 
     <form action="mail.php" method="post"> 
     <input type="email" name="email" required autocomplete="off" placeholder="~~enter email~~">
-    <br><br>
+    <br/><br/>
     <input type="submit" name="submit" value="Submit">
-    </form>
- 
+    </form> 
 </body>
 </html>
-<!--Created:17/04/2020
-    Developed:Netam1010 -->
