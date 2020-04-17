@@ -7,13 +7,13 @@
 </head>
 <body>
 	<h2 align="center">`PHP Mailer`</h2>
-    <form action="mail.php" method="post">
-    <div align="center">
+	 <div align="center">
+    <form action="mail.php" method="post"> 
     <input type="email" name="email" required autocomplete="off" placeholder="~~enter email~~">
     <br><br>
     <input type="submit" name="submit" value="Submit">
-    </div>
     </form>
+  </div>
 </body>
 </html>
 <!--Created:17/04/2020
