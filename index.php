@@ -12,8 +12,8 @@
     <input type="email" name="email" required autocomplete="off" placeholder="~~enter email~~">
     <br><br>
     <input type="submit" name="submit" value="Submit">
-    </form>
     </div>
+    </form>
 </body>
 </html>
 <!--Created:17/04/2020
