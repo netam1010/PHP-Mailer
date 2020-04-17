@@ -7,8 +7,8 @@
 </head>
 <body>
 	<h2 align="center">`PHP Mailer`</h2>
-	<div align="center">
     <form action="mail.php" method="post">
+    <div align="center">
     <input type="email" name="email" required autocomplete="off" placeholder="~~enter email~~">
     <br><br>
     <input type="submit" name="submit" value="Submit">
